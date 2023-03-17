@@ -1,4 +1,5 @@
 # Roompilot-Pilot-Frontend
+<a href="https://wakatime.com/badge/user/7df019f0-7a0e-4b85-89f3-0ac38ab67246/project/288f6172-3fd8-4670-bc8d-f41cbe0ff658"><img src="https://wakatime.com/badge/user/7df019f0-7a0e-4b85-89f3-0ac38ab67246/project/288f6172-3fd8-4670-bc8d-f41cbe0ff658.svg" alt="wakatime"></a>
 
 The server side part of the roompilot project which provides smart room planning signs
 
