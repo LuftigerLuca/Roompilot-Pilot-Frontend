@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Roompilot-Pilot-Frontend
+
+The server side part of the roompilot project which provides smart room planning signs
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
